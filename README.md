@@ -20,7 +20,7 @@ Learn fundamentals of computer science while implementing efficient data structu
 
 1. Week_1_Orientation_Write_a_cpp_program
   * Introduction
-  * Local development environment, toolchian, and IDE installation
+  * Local development environment, toolchain, and IDE installation
   * Cloud development environment configuration
   * C++ Standard Library
   * C++ Classes
@@ -54,8 +54,23 @@ Learn fundamentals of computer science while implementing efficient data structu
   * Introduction
   * Array
   * Linked-list
-  * Time and space complexity analysis
-  * Operation of Array and List
+  * Time and space complexity analysis of Array and Linked-list
+  * Operation of Array and Linked-list
   * Queue
   * Stack
   * Project: Linked list and Merge sort
+  
+2. Week_2_Introduction to Tree structures
+ * Tree terminology
+ * Tree Traversal
+ * Binary Tree
+ * Binary Search Tree
+ * Time and space complexity analysis of Tree search operation
+ 
+3. Week_3_Advanced Tree Structures
+ * Balanced Binary Search Tree
+ * AVL Tree adn its analysis
+ * B-Tree introduction
+ * B-Tree operation: insert and search
+ * Project: Generic Tree and Tree Traversal
+  
