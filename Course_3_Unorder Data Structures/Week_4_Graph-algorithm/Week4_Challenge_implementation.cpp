@@ -26,7 +26,8 @@ public:
 };
 
 
-/* Below are two conditions that need to be programmed
+/* 
+ * Below are two conditions that need to be programmed
  * to allow this procedure to perform a breadth first
  * traversal and mark the edge distance of the graph's
  * vertices from vertex i.
