@@ -74,3 +74,9 @@ Learn fundamentals of computer science while implementing efficient data structu
  * B-Tree operation: insert and search
  * Project: Generic Tree and Tree Traversal
   
+4. Week_4_Heap Structures
+ * Heap introduction
+ * Heap and priority-queue
+ * Heap variation: min-heap, max-heap
+ * Heap operation: insert, extract-min, build heap, heapify adjustment
+ * Time and space complexity analysis of Heap
