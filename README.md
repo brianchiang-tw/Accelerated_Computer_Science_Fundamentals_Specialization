@@ -107,3 +107,18 @@ Learn fundamentals of computer science while implementing efficient data structu
   * Graph representation: adjacency list
   * Time and space complexity analysis of graph operation
   * Project: Graph search
+
+4. Week_4_Graph algorithm
+  * Graph traversal algorithm
+  * Breadth First Search (i.e., BFS ) Traversal
+  * Time and space complexity analysis of BFS
+  * Depth First Search (i.e., DFS) Traversal
+  * Time and space complexity analysis of DFS
+  * Minimal spanning tree (i.e., MST ) algorithm
+  * Kruskal algorithm
+  * Prim algorithm
+  * Shortest path algorithm
+  * Dijkstra algorithm
+  * Dijkstra algorithm's edge case
+  * Time and space complexity of Dijkstra algortithm
+  * Landmark path problem
