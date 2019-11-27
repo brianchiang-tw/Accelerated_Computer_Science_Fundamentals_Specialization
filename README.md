@@ -93,8 +93,17 @@ Learn fundamentals of computer science while implementing efficient data structu
 
 2. Week_2_Disjoint-sets
   * Disjoint-sets introduction
-  * Teminology
+  * Disjoint-sets teminology
   * Naive implementation
   * Up-tree, a better implementation
   * Smart union & Path-compression
   * Time and space complexity analysis of Disjoint-sets
+
+3. Week_3_Graph
+  * Graph introduction
+  * Week_3_Graph terminology
+  * Graph representation: edge list
+  * Graph representation: adjacency matrix
+  * Graph representation: adjacency list
+  * Time and space complexity analysis of graph operation
+  * Project: Graph search
