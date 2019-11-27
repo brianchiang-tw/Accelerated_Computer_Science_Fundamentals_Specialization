@@ -11,3 +11,39 @@ Accelerated Computer Science Fundamentals Specialization
 Data Structures and Algorithms in C++. 
 
 Learn fundamentals of computer science while implementing efficient data structures in C++.
+
+
+
+## Table of content
+
+# Course_#1 :Object-Oriented Data Structures in Cpp
+
+1. Week_1_Orientation_Write_a_cpp_program
+  * Introduction
+  * Local development environment, toolchian, and IDE installation
+  * Cloud development environment configuration
+  * C++ Standard Library
+  * C++ Classes
+
+2. Week_2_Understanding Cpp memory model
+  * Variable, pointer, and memory
+  * Stack
+  * Heap
+  * New, delete, and memory management
+  * Basic control flow
+  * Header file and source file
+  * Hello world projct
+
+3. Week_3_Developing Cpp Classes
+  * Classes
+  * Constructor / Destructor
+  * Copy assignment operator
+  * Variable storage
+  * Introduction to un-initialized pointer, segmentation Fault, and un-defined behavoir
+  * Range-based loop
+
+4. Week_4_Engineering Cpp software solution
+  * Recursive with implementation of Tower of Hanoi
+  * Template type and template classes
+  * Inheritance
+	* Image processing project
