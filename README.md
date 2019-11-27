@@ -54,8 +54,17 @@ Learn fundamentals of computer science while implementing efficient data structu
   * Introduction
   * Array
   * Linked-list
-  * Time and space complexity analysis
-  * Operation of Array and List
+  * Time and space complexity analysis of Array and Linked-list
+  * Operation of Array and Linked-list
   * Queue
   * Stack
   * Project: Linked list and Merge sort
+  
+2. Week_2_Introduction to Tree structures
+ * Tree terminology
+ * Tree Traversal
+ * Binary Tree
+ * Binary Search Tree
+ * Time and space complexity analysis of Tree search operation
+ * Project: Generic Tree and Tree Traversal
+  
