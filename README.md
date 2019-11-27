@@ -32,7 +32,7 @@ Learn fundamentals of computer science while implementing efficient data structu
   * New, delete, and memory management
   * Basic control flow
   * Header file and source file
-  * Hello world projct
+  * Project: Hello world
 
 3. Week_3_Developing Cpp Classes
   * Classes
@@ -46,4 +46,16 @@ Learn fundamentals of computer science while implementing efficient data structu
   * Recursive with implementation of Tower of Hanoi
   * Template type and template classes
   * Inheritance
-  * Image processing project
+  * Project: Image processing
+
+# Course_#2 :Ordered Data Structures
+
+1. Week_1_Orientation_Linear data structures
+  * Introduction
+  * Array
+  * Linked-list
+  * Time and space complexity analysis
+  * Operation of Array and List
+  * Queue
+  * Stack
+  * Project: Linked list and Merge sort
