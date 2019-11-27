@@ -46,4 +46,4 @@ Learn fundamentals of computer science while implementing efficient data structu
   * Recursive with implementation of Tower of Hanoi
   * Template type and template classes
   * Inheritance
-	* Image processing project
+  * Image processing project
