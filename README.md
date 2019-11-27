@@ -80,3 +80,14 @@ Learn fundamentals of computer science while implementing efficient data structu
  * Heap variation: min-heap, max-heap
  * Heap operation: insert, extract-min, build heap, heapify adjustment
  * Time and space complexity analysis of Heap
+
+# Course_#3 :Un-ordered Data Structures
+
+1. Week_1_Orientation_Hashing
+  * Hashing introduction
+  * Hashing function with examples
+  * Collision handling: separate chaining
+  * Collision handling: probing and double-hashing
+  * Time and space complexity analysis of Hashing
+  * Project: Unordered-map
+  
