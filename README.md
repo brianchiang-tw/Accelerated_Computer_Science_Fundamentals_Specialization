@@ -90,4 +90,11 @@ Learn fundamentals of computer science while implementing efficient data structu
   * Collision handling: probing and double-hashing
   * Time and space complexity analysis of Hashing
   * Project: Unordered-map
-  
+
+2. Week_2_Disjoint-sets
+  * Disjoint-sets introduction
+  * Teminology
+  * Naive implementation
+  * Up-tree, a better implementation
+  * Smart union & Path-compression
+  * Time and space complexity analysis of Disjoint-sets
